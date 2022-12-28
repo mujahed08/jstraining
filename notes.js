@@ -146,3 +146,34 @@ switch (key) {
 
 console.log('End of program reached')
 
+
+
+/**
+ * 
+ * Loops
+ * 
+ * for, while, do-while
+ * 
+ */
+
+
+
+let n = 2;
+
+for (let k=1; k <= 10; k++) {
+    
+    console.log(n * k);
+   
+}
+
+
+
+let i=1;
+
+
+do {
+    console.log(i * n)
+    i++;
+} while (i <= 10);
+
+console.log('End of prgoram reached')
