@@ -1,0 +1,20 @@
+{
+  "name": "jstraining",
+  "version": "1.0.0",
+  "description": "js training code snippets",
+  "main": "main.js",
+  "scripts": {
+    "test": "test main"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mujahed08/jstraining.git"
+  },
+  "author": "Mohammed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mujahed08/jstraining/issues"
+  },
+  "homepage": "https://github.com/mujahed08/jstraining#readme",
+  "type": "module"
+}

@@ -177,3 +177,32 @@ do {
 } while (i <= 10);
 
 console.log('End of prgoram reached')
+
+
+/**
+ * 
+ * Functions
+ * 
+ * syntax: keword construct or a programming construct, basically to used to express your program
+ * 
+ *  keyword: function
+ *  name: user defined any name
+ *  parameters: argument to the function/ input to function
+ *  return: this keyword may return singular output
+ * 
+ */
+
+
+myfunct(12, 765);
+
+
+
+myfunct = function(a, b) {
+    sum = a + b;
+    return sum;
+}
+
+
+add = myfunct(12, 765);
+
+console.log(add)
