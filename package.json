@@ -2,7 +2,7 @@
   "name": "jstraining",
   "version": "1.0.0",
   "description": "js training code snippets",
-  "main": "main.js",
+  "main": "server.js",
   "scripts": {
     "test": "test main"
   },
@@ -16,5 +16,8 @@
     "url": "https://github.com/mujahed08/jstraining/issues"
   },
   "homepage": "https://github.com/mujahed08/jstraining#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
   "type": "module"
 }
